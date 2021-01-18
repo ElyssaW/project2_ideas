@@ -28,10 +28,47 @@ Your app must:
 ## Write your 3 ideas below this line:
 <hr>
 
+1. ### Community food donation app
+An app that connects local cooks and bakers (Who want to make food, but can't give it to anyone because Covid) to locals in their area who request. 
 
+#### MVP
+- User login
+- Data table to keep track of requests
+- Data table to keep track of offers
+- Geolocation API to search in the area
+- Create, read, update, and delete requests/offers
 
+#### Stretch goals
+- List recipes you'd like to try (Data scrape them from Google?)
+- Follow/like system
+- Message functionality
 
+### Play-By-Post App
+An app that uses a rules-light table-top RPG system (Such as Skyfarer or Monster of the Week) that allows people to create games/characters and play games by forum post with their friends.
 
+#### MVP
+- User login
+- Datatable to keep track of games
+- Datatable to keep track of characters
+- Create, read, update, and delete posts from you and your friends
+- Light dice-rolling functionality (Nothing too complicated, it's not DnD)
+- For the API call - I can't find any good APIs that'd be useful. Maybe data scrape information? Or an API to create random characters for the GM?
+
+#### Stretch goals
+- Private messaging with Socket
+- Visual representation of the gameboard (Maybe with Canvas?)
+
+### Space Travel app
+Fun app full of SPACE FACTS. What's the weather on Mars today? What's a random exoplanet? What was NASA's photo of the day three years ago?
+
+#### MVP
+- Database to keep track of the user's planets
+- Database to keep track of user's space travel ideas
+- API calls to NASA's exoplanet API, weather API, API calls for days
+- Create, read, update, and delete from travel journal
+
+#### Strecth Goals
+- Randomly generated news articles from "alien" civilizations. 
 
 
 
